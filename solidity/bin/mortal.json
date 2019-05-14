@@ -1,0 +1,33 @@
+{
+    "abi": [
+        {
+            "constant": false,
+            "inputs": [],
+            "name": "kill",
+            "outputs": [],
+            "payable": false,
+            "stateMutability": "nonpayable",
+            "type": "function"
+        },
+        {
+            "inputs": [],
+            "payable": false,
+            "stateMutability": "nonpayable",
+            "type": "constructor"
+        }
+    ],
+    "bytecode": "6080604052348015600f57600080fd5b50600080546001600160a01b031916331790556078806100306000396000f3fe6080604052348015600f57600080fd5b506004361060285760003560e01c806341c0e1b514602d575b600080fd5b60336035565b005b6000546001600160a01b0316331415604a5733ff5b56fea165627a7a72305820d3f1c6464520330c6e2c73bb8b66be6f14945a8c8d9117e1b0867e82c8cb7dee0029",
+    "functionHashes": {
+        "kill()": "41c0e1b5"
+    },
+    "gasEstimates": {
+        "creation": {
+            "codeDepositCost": "24000",
+            "executionCost": "20310",
+            "totalCost": "44310"
+        },
+        "external": {
+            "kill()": "30357"
+        }
+    }
+}
